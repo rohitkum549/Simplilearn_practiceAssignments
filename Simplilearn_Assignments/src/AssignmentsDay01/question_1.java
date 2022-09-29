@@ -13,6 +13,8 @@ public class question_1
 		{
 			arr[i]=X.nextInt();
 		}
+		arr.toString(); /*This is the Keyword for Convert Arrays to Stings*/
+		//Arrays.sort(arr); /*!!!!!!!This is the Keyword for Sort the Array!!!!*/
 		int temp=0;
         //int arr[]={5,9,2,5,8,1,3};
         for(int i=0;i<arr.length-1;i++)
